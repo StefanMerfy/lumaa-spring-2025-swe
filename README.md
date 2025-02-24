@@ -17,17 +17,19 @@
 
  ## Or copy database using pgAdmin4
 
- Right click on databases and click creat->Database
+ Right click on databases and click creat->Database              
  ![image](https://github.com/user-attachments/assets/7e0a4d57-865c-41dc-88f7-dfcc33e37f43)
- You will be prompted to name your database, the name does not matter but will need to be set in your .env file later on
+ 
+ You will be prompted to name your database, the name does not matter but will need to be set in your .env file later on            
 
 
-Select your newly created database and select restore
+Select your newly created database and select restore          
 ![image](https://github.com/user-attachments/assets/002b1129-d709-43ea-be19-5199ec69424e)
 
 
-Once presented with the restore page, select directory for the format and for the filename click on the folder and then select the databaseBackup provided from this GitHub
+Once presented with the restore page, select directory for the format and for the filename click on the folder and then select the databaseBackup provided from this GitHub                  
 ![image](https://github.com/user-attachments/assets/c7311b92-1951-411a-8612-8e967ead8476)
+
 
 Make sure the new database has been copied properly, open the dropdown for your new database and check schemas->tables, there should be two.
 
@@ -41,7 +43,7 @@ Now your database should be ready! Make sure your PostgreSQL server is running (
 
 The .env file is provided for the sake of this project
 
-The file can be found within the "node" folder of this repository, you will need to edit some of its contents
+The file can be found within the "node" folder of this repository, you will need to edit some of its contents                           
 You will need to edit DATABASE_NAME, DATABASE_PASSWORD, you may need to edit DATABASE_USER but the default for postgreSQL is "postgres", everything else can be changed if desired but can be left as is
 
 
@@ -67,7 +69,7 @@ and if that doesnt work then you can go into your browser and in the url type ``
 If for some reason you want to run your frontend on a different port, you can navigate to frontend->src->Login.tsx and the port can be changed on line 3
 
 
-### After all these steps the website should be running completely, feel free to signup, login, and create,edit,delete, and complete your tasks!
+### After all these steps the website should be running completely, feel free to signup, login, and create, edit, delete, and complete your tasks!
 
 
 
