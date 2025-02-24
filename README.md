@@ -71,6 +71,8 @@ If for some reason you want to run your frontend on a different port, you can na
 
 ### After all these steps the website should be running completely, feel free to signup, login, and create, edit, delete, and complete your tasks!
 
+## Demo Video:
+### https://youtu.be/U6ncr11VEpk?si=kHS7qFSPJmfxlflL
 
 
 ## Notes:
@@ -78,3 +80,7 @@ If for some reason you want to run your frontend on a different port, you can na
 Since the provided database is a copy of one I did some testing in, some usernames may be taken when you try it, it shouldn't be a problem but if by some chance you pick the same usernames I did when testing, this is why you probably couldn't sign up
 
 ### Salary expectations: $2000 per month
+
+
+
+
