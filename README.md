@@ -39,7 +39,7 @@ Now your database should be ready! Make sure your PostgreSQL server is running (
 
 ## Backend Setup
 
-## .env setup
+### .env setup
 
 The .env file is provided for the sake of this project
 
@@ -47,7 +47,7 @@ The file can be found within the "node" folder of this repository, you will need
 You will need to edit DATABASE_NAME, DATABASE_PASSWORD, you may need to edit DATABASE_USER but the default for postgreSQL is "postgres", everything else can be changed if desired but can be left as is
 
 
-## Running the server
+### Running the server
 In your terminal, change directories to the "node" folder within this repository, this can be done with ```cd <path_to_nodefolder>```
 then run ```npm install``` to install dependencies then run ```node index.js``` to start the server,
 if the terminal responds with "server running on port ```port_number```" or a different port if you set it in your .env, then the server should be running!
