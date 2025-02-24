@@ -6,7 +6,7 @@
 # vvvv Setup Instructions vvvv
 
 ## Database Setup: 
-### download the backup of the database in the "database" folder, ensure you have [PostgreSQL]([url](https://www.postgresql.org/download/)) installed 
+### you will use the databaseBackup folder, ensure you have [PostgreSQL]([url](https://www.postgresql.org/download/)) installed 
 
 
 ## Copy database with commands: 
@@ -17,7 +17,7 @@
 
  ## Or copy database using pgAdmin4
 
- Right click on databases and click creat->Database              
+ Right click on databases and click create->Database              
  ![image](https://github.com/user-attachments/assets/7e0a4d57-865c-41dc-88f7-dfcc33e37f43)
  
  You will be prompted to name your database, the name does not matter but will need to be set in your .env file later on            
