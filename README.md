@@ -6,7 +6,7 @@
 # vvvv Setup Instructions vvvv
 
 ## Database Setup: 
-###download the backup of the database in the "database" folder, ensure you have [PostgreSQL]([url](https://www.postgresql.org/download/)) installed 
+### download the backup of the database in the "database" folder, ensure you have [PostgreSQL]([url](https://www.postgresql.org/download/)) installed 
 
 
 ## Copy database with commands: 
@@ -77,4 +77,4 @@ If for some reason you want to run your frontend on a different port, you can na
 
 Since the provided database is a copy of one I did some testing in, some usernames may be taken when you try it, it shouldn't be a problem but if by some chance you pick the same usernames I did when testing, this is why you probably couldn't sign up
 
-
+### Salary expectations: $2000 per month
