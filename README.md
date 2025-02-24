@@ -3,7 +3,7 @@
 
 
 
-# vvvv Setup Instructions vvvv
+#  Setup Instructions 
 
 ## Database Setup: 
 ### you will use the databaseBackup folder, ensure you have [PostgreSQL]([url](https://www.postgresql.org/download/)) installed 
